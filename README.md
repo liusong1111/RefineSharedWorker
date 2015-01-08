@@ -4,6 +4,9 @@ Fix &amp; Enhance SharedWorker
 SharedWorker is promising, but it's weak and leaky, RefineSharedWorker comes here to rescue.
 I hope it will be unnecessary soon :)
 
+# NOTICE
+  chrome only
+
 # Highly inspired by
 
 [Chrome页面刷新后SharedWorker无法连接的问题](http://www.web-tinker.com/article/20722.html)
